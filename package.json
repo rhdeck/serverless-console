@@ -1,8 +1,8 @@
 {
-  "name": "template",
+  "name": "@raydeck/serverless-console",
   "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "Open the AWS Cloudformation Console for current serverless stack",
   "main": "lib/index.js",
   "bin": "lib/bin.js",
   "scripts": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhdeck/base.git"
+    "url": "git+https://github.com/rhdeck/serverless-console.git"
   },
   "author": "Ray Deck",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rhdeck/base/issues"
+    "url": "https://github.com/rhdeck/serverless-console/issues"
   },
-  "homepage": "https://github.com/rhdeck/base#readme",
+  "homepage": "https://github.com/rhdeck/serverless-console#readme",
   "devDependencies": {
     "@commitlint/cli": "^9.1.1",
     "@commitlint/config-conventional": "^9.1.1",
