@@ -1,16 +1,18 @@
 
-<a name="readmemd"></a>
-
-[template - v1.0.0](#readmemd)
-
-# template - v1.0.0
-
-
-
-
 <a name="__climd"></a>
 
 # Usage
 ```bash
-template [options]
+serverless-console [options]
 ```
+Open the AWS Cloudformation Console for current serverless stack
+# Options
+* -p --path \<`path`> Working path for serverless package (default: `.`)
+
+<a name="librarymd"></a>
+
+[template - v1.0.0](README.md)
+
+# template - v1.0.0
+
+
