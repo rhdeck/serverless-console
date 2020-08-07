@@ -1,6 +1,5 @@
 {
   "name": "@raydeck/serverless-console",
-  "private": true,
   "version": "1.0.0",
   "description": "Open the AWS Cloudformation Console for current serverless stack",
   "main": "lib/index.js",
