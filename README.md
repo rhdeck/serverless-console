@@ -11,8 +11,8 @@ Open the AWS Cloudformation Console for current serverless stack
 
 <a name="librarymd"></a>
 
-[@raydeck/serverless-console - v1.0.0](README.md)
+[@raydeck/serverless-console - v1.0.1](README.md)
 
-# @raydeck/serverless-console - v1.0.0
+# @raydeck/serverless-console - v1.0.1
 
 
